@@ -100,6 +100,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
  html, body {
      height: 100%;
      font-family: 'Poppins', sans-serif;
+     overflow-x: hidden;
 }
  body {
      position: relative;
@@ -399,9 +400,13 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      width: 100%;
      z-index: 99;
 }
+
+
  .mean-container .mean-bar {
      position: relative;
+     max-width: 100vw;
 }
+
  .mean-container .mean-bar:before {
      color: #ffffff;
      content: "menu";
@@ -1541,20 +1546,6 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
  .to-top {
      display: none;
 }
- .to-top a {
-     background: #f17b37 none repeat scroll 0 0;
-     border-radius: 4px;
-     color: #ffffff;
-     font-size: 35px;
-     height: 40px;
-     line-height: 40px;
-     position: fixed;
-     right: 1%;
-     text-align: center;
-     top: 91%;
-     transition: all 0.5s ease-in-out 0s;
-     width: 40px;
-     z-index: 999;
 }
  .to-top:hover {
      background: #ffff00 none repeat scroll 0 0;
