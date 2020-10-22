@@ -197,7 +197,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
 /*=====basce css end here=========*/
 /*============================== theme buttons css goes here ===============================*/
  .travel-primary-btn, .travel-primary-btn-sm, .read-more, .quick-shop, .thailan-btn, .travel-primary-btn-2 {
-     background: #37b721;
+     background: orange;
      display: inline-block;
      padding: 12px 29px !important;
      border-radius: 3px;
@@ -279,7 +279,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
 }
  .header-top-area .header-top-left .header-top-contact li i {
      margin-right: 10px;
-     color: #37b721;
+     color: orange;
      font-size: 20px;
 }
  .header-top-area-2 {
@@ -289,7 +289,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      display: inline-block;
      padding: 16px;
      float: right;
-     background: #37b721;
+     background: orange;
      transition: all ease-in-out 0.3s;
 }
  .header-top-right .book-btn a {
@@ -417,12 +417,24 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      top: 15px;
      font-weight: 700;
 }
+
+.header-top-contact_button {
+    background: #00aeef;
+    font-size: 16px;
+    display: inline-block;
+    line-height: 48px;
+    border-radius: 30px;
+    color: #ffffff;
+    padding: 0 50px;
+    text-decoration: none;
+}
+
 /*===================================================== 02. slider area section title css goes here =======================================================*/
  .slider-area {
      min-height: 1000px;
 }
  .slider-area .tparrows {
-     background: #37b721 !important;
+     background: orange !important;
      transition: all ease-in-out 0.3s !important;
      width: 53px !important;
      height: 53px !important;

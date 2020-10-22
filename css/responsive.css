@@ -95,10 +95,6 @@
     .single-item{margin-bottom: 30px;}
     .single-item:last-child{margin-bottom: 0px;}
 
-    body{
-        overflow-x: hidden;
-    }
-
 /*========= index ==========*/
     .bredcrums-content {text-align: center;}
     .slider-area {min-height: 0;}
