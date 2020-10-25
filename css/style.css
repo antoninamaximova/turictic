@@ -268,7 +268,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      left: 0;
 }
  .header-top-area {
-     background: rgba(255, 165, 0, 0.5);
+     background: rgba(250, 145, 85, 0.5);
 }
  .header-top-area .header-top-left .header-top-contact li {
      display: inline-block;
@@ -691,7 +691,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      background-color: transparent;
      background-image: url("../images/line-read.png");
      background-repeat: no-repeat;
-     color: orange;
+     color: #fa9155;
      font-size: 30px;
      font-weight: 500;
      padding-bottom: 20px;
@@ -1287,6 +1287,11 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      text-transform: uppercase;
      font-weight: 600;
 }
+
+
+.backgr-view {
+     /*background: #fa9155;*/
+}
 /*===================================================== 13.subscribe area section css goes here =======================================================*/
  .single-pertner {
      margin-bottom: 20px;
@@ -1294,7 +1299,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
 }
 /*===================================================== 14.Footer area section css goes here =======================================================*/
  .footer-area {
-     background:  rgba(255, 165, 0, 0.7);
+     background:  rgb(250, 145, 85);
      padding-bottom: 10px;
 }
  .footer-area .single-footer {
@@ -1563,6 +1568,24 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      background: #ffff00 none repeat scroll 0 0;
      color: #283754;
 }
+
+.main{display: flex;
+     flex-wrap: wrap;
+     background: url(../images/bgimage/countbg.jpg) no-repeat;
+background-size: cover;}
+
+.wrap {
+     max-width: 300px;
+     border: 2px solid transparent;
+     border-radius: 10px;
+     margin: 10px auto;
+     background: rgba(255, 255, 255, 0.8);
+     color: #fa9155;
+}
+
+.wrap h3{font-weight: bold;}
+
+.answer li {color: #727272;}
 /*home version two */
 /*===================================================== 16.home version 2 Slider area section css goes here =======================================================*/
  .index-2 .header-top-area {

@@ -18,7 +18,7 @@
 }
 /*---- tab form ----*/
     .tabbased-search-area {
-        background: rgba(255, 165, 0, 0.5);
+        background: rgb(250, 145, 85);
         position: relative;
         margin-top:-200px;
         padding: 100px 0;
@@ -107,7 +107,7 @@
     .slider-area .tparrows {display: none;}
     /*---- tab form ----*/
     .tabbased-search-area {
-        background: rgba(255, 165, 0, 0.7);
+        background: rgb(250, 145, 85);
         position: relative;
         margin-top: 0;
         padding: 100px 0;
@@ -145,7 +145,7 @@
     .tabbased-search-area-2 .bg-shadoow-image {
         padding: 100px 15px 0; 
         margin-top: 0px;
-        background: rgba(255, 165, 0, 0.5) ;
+        background: rgb(250, 145, 85) ;
         box-shadow: none;
     }
 
