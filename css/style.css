@@ -409,7 +409,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
 
  .mean-container .mean-bar:before {
      color: #ffffff;
-     content: "menu";
+     content: "";
      font-size: 15px;
      left: 10px;
      position: absolute;
