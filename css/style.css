@@ -268,7 +268,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      left: 0;
 }
  .header-top-area {
-     background: rgba(34, 67, 74, 0.5);
+     background: rgba(255, 165, 0, 0.5);
 }
  .header-top-area .header-top-left .header-top-contact li {
      display: inline-block;
@@ -289,7 +289,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
      display: inline-block;
      padding: 16px;
      float: right;
-     background: orange;
+     background: #00aeef;
      transition: all ease-in-out 0.3s;
 }
  .header-top-right .book-btn a {
@@ -1294,7 +1294,7 @@ Tags: 	hotel, resort, tour, tourism, tourist, tours website, travel, traveler, t
 }
 /*===================================================== 14.Footer area section css goes here =======================================================*/
  .footer-area {
-     background: #2f3133 url("../images/bgimage/footer1.jpg") no-repeat scroll 99% center/cover;
+     background:  rgba(255, 165, 0, 0.7);
      padding-bottom: 10px;
 }
  .footer-area .single-footer {
